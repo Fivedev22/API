@@ -36,4 +36,3 @@ lerna-debug.log*
 
 # Api
 /ormconfig.ts
-client
